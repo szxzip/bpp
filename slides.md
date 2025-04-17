@@ -2,8 +2,6 @@
 title: Communist Party USA
 info: |
   Communist Party USA
-  
-  <br>
 
   Original Content: <https://szxzip.org/2025/04/17/communist-party-usa/>
   
