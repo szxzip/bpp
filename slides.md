@@ -35,7 +35,10 @@ transition: fade
 
 # [Birth of the Movement (1966-1967)]{style="color:#ff3030"}
 
-<br>
+<figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
+  <img src="/1.webp" alt="1.webp" style="border-radius: 0px;">
+  <figcaption style="text-align: center; font-size: 0.9em; color: gray;">Huey Newton and Bobby Seale in Oakland (1966)</figcaption>
+</figure>
 
 In 1966, Huey Newton and Bobby Seale started the BPP in Oakland, California. 
 
@@ -54,7 +57,10 @@ transition: fade
 
 # [Growth and Crackdown (1968-1971)]{style="color:#ff3030"}
 
-<br>
+<figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
+  <img src="/2.webp" alt="2.webp" style="border-radius: 0px;">
+  <figcaption style="text-align: center; font-size: 0.9em; color: gray;">Huey Newton and Bobby Seale in Oakland (1966)</figcaption>
+</figure>
 
 By 1968, the BPP spread across the U.S. 
 
@@ -75,7 +81,10 @@ transition: fade
 
 # [Decline and Lessons (1972-1982)]{style="color:#ff3030"}
 
-<br>
+<figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
+  <img src="/3.webp" alt="3.webp" style="border-radius: 0px;">
+  <figcaption style="text-align: center; font-size: 0.9em; color: gray;">Huey Newton and Bobby Seale in Oakland (1966)</figcaption>
+</figure>
 
 By the 1970s, the BPP weakened. 
 
@@ -94,7 +103,10 @@ transition: slide-down
 
 # [Why It Matters Today]{style="color:#ff3030"}
 
-<br>
+<figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
+  <img src="/4.webp" alt="4.webp" style="border-radius: 0px;">
+  <figcaption style="text-align: center; font-size: 0.9em; color: gray;">Huey Newton and Bobby Seale in Oakland (1966)</figcaption>
+</figure>
 
 The BPP’s history teaches us two things:
 
