@@ -37,7 +37,7 @@ transition: fade
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
   <img src="/1.webp" alt="1.webp" style="border-radius: 0px;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: gray;">Huey Newton and Bobby Seale in Oakland (1966)</figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; color: #cb0000;">Huey Newton and Bobby Seale in Oakland (1966)</figcaption>
 </figure>
 
 In 1966, Huey Newton and Bobby Seale started the BPP in Oakland, California. 
@@ -59,7 +59,7 @@ transition: fade
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
   <img src="/2.webp" alt="2.webp" style="border-radius: 0px;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: gray;">Black Panther Party Protesting</figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; color: #cb0000;">Black Panther Party Protesting</figcaption>
 </figure>
 
 By 1968, the BPP spread across the U.S. 
@@ -83,7 +83,7 @@ transition: fade
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
   <img src="/3.webp" alt="3.webp" style="border-radius: 0px;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: gray;">Police Arrest BPP Members</figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; color: #cb0000;">Police Arrest BPP Members</figcaption>
 </figure>
 
 By the 1970s, the BPP weakened. 
@@ -105,7 +105,7 @@ transition: slide-down
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
   <img src="/4.webp" alt="4.webp" style="border-radius: 0px;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: gray;">The Communist Movement in America Today</figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; color: #cb0000;">The Communist Movement in America Today</figcaption>
 </figure>
 
 The BPP’s history teaches us two things:
