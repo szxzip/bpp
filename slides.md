@@ -42,13 +42,13 @@ transition: fade
 
 In 1966, Huey Newton and Bobby Seale started the BPP in Oakland, California. 
 
-Black communities there faced poverty, police violence, and racism. 
+Black communities there faced **POVERTY**, police **VIOLENCE**, and **RACISM**. 
 
-The BPP’s Ten-Point Program demanded basic rights: fair housing, jobs, education, and an end to police brutality. 
+The BPP’s **TEN-POINT PROGRAM** demanded basic rights: fair housing, jobs, education, and an end to police brutality. 
 
 They carried guns legally to patrol neighborhoods, protecting people from abusive cops. 
 
-This was a bold move by poor Black workers to defend themselves against a system that ignored their needs.
+This was a bold move by **POOR BLACK WORKERS** to defend themselves against a system that ignored their needs.
 
 ---
 layout: default
@@ -64,15 +64,15 @@ transition: fade
 
 By 1968, the BPP spread across the U.S. 
 
-They mixed socialist ideas with Black pride, calling for revolution.
+They mixed **SOCIALIST** ideas with Black pride, calling for revolution.
 
-The FBI saw them as a threat and launched COINTELPRO—a secret program to destroy the group. 
+The FBI saw them as a threat and launched COINTELPRO—a secret program to **DESTORY** the group. 
 
 Police raids, fake news, and lies split the party. 
 
-In 1969, Chicago police killed Fred Hampton, a leader who united Black, white, and Latino poor communities. 
+In 1969, Chicago police **KILLED** Fred Hampton, a leader who united Black, white, and Latino poor communities. 
 
-Meanwhile, the BPP’s survival programs—like free breakfast for kids and health clinics—showed how working-class people could help each other when the government failed them.
+Meanwhile, the BPP’s survival programs—like free breakfast for kids and health clinics—showed how **WORKING-CLASS** people could help each other when the government failed them.
 
 ---
 layout: default
@@ -83,18 +83,18 @@ transition: fade
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
   <img src="/3.webp" alt="3.webp" style="border-radius: 0px;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: gray;">Police Arrest Black Panther Party Members</figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; color: gray;">Police Arrest BPP Members</figcaption>
 </figure>
 
 By the 1970s, the BPP weakened. 
 
-Government attacks, fights among leaders, and Newton’s mistakes hurt the party. 
+**GOVENRMENT ATTACKS**, fights among leaders, and Newton’s **MISTAKES** hurt the party. 
 
 But their legacy lives on. 
 
-The BPP proved that fighting racism and capitalism must go hand in hand. 
+The BPP proved that fighting racism and capitalism must go **HAND IN HAND**. 
 
-Their downfall also teaches us: without unity among all working people—Black, white, and others—real change is hard to achieve.
+Their downfall also teaches us: without **UNITY** among all working people—Black, white, and others—real change is hard to achieve.
 
 ---
 layout: default
@@ -110,11 +110,11 @@ transition: slide-down
 
 The BPP’s history teaches us two things:
 
-- Systemic Oppression: Racism and poverty are tools capitalism uses to divide workers.
+- **Systemic Oppression**: Racism and poverty are tools capitalism uses to divide workers.
 
-- People’s Power: When communities organize, they can challenge unfair systems—even if the state fights back.
+- **People’s Power**: When communities organize, they can challenge unfair systems—even if the state fights back.
 
-The Panthers’ fight reminds us that justice requires both resisting oppression and building a fairer world for all workers.
+The Panthers’ fight reminds us that JUSTICE requires both RESISTING oppression and BUILDING world for all workers.
 
 ---
 layout: end
