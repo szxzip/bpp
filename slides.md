@@ -33,7 +33,7 @@ layout: default
 transition: fade
 ---
 
-# Birth of the Movement (1966-1967)
+# [Birth of the Movement (1966-1967)]{style="color:#ff3030"}
 
 <br>
 
@@ -52,29 +52,47 @@ layout: default
 transition: fade
 ---
 
-# Growth and Crackdown (1968-1971)
+# [Growth and Crackdown (1968-1971)]{style="color:#ff3030"}
 
 <br>
 
-By 1968, the BPP spread across the U.S. They mixed socialist ideas with Black pride, calling for revolution. The FBI saw them as a threat and launched COINTELPRO—a secret program to destroy the group. Police raids, fake news, and lies split the party. In 1969, Chicago police killed Fred Hampton, a leader who united Black, white, and Latino poor communities. Meanwhile, the BPP’s survival programs—like free breakfast for kids and health clinics—showed how working-class people could help each other when the government failed them.
+By 1968, the BPP spread across the U.S. 
+
+They mixed socialist ideas with Black pride, calling for revolution.
+
+The FBI saw them as a threat and launched COINTELPRO—a secret program to destroy the group. 
+
+Police raids, fake news, and lies split the party. 
+
+In 1969, Chicago police killed Fred Hampton, a leader who united Black, white, and Latino poor communities. 
+
+Meanwhile, the BPP’s survival programs—like free breakfast for kids and health clinics—showed how working-class people could help each other when the government failed them.
 
 ---
 layout: default
 transition: fade
 ---
 
-# Decline and Lessons (1972-1982)
+# [Decline and Lessons (1972-1982)]{style="color:#ff3030"}
 
 <br>
 
-By the 1970s, the BPP weakened. Government attacks, fights among leaders, and Newton’s mistakes hurt the party. But their legacy lives on. The BPP proved that fighting racism and capitalism must go hand in hand. Their downfall also teaches us: without unity among all working people—Black, white, and others—real change is hard to achieve.
+By the 1970s, the BPP weakened. 
+
+Government attacks, fights among leaders, and Newton’s mistakes hurt the party. 
+
+But their legacy lives on. 
+
+The BPP proved that fighting racism and capitalism must go hand in hand. 
+
+Their downfall also teaches us: without unity among all working people—Black, white, and others—real change is hard to achieve.
 
 ---
 layout: default
 transition: slide-down
 ---
 
-# Why It Matters Today
+# [Why It Matters Today]{style="color:#ff3030"}
 
 <br>
 
@@ -90,4 +108,4 @@ The Panthers’ fight reminds us that justice requires both resisting oppression
 layout: end
 ---
 
-THANKS FOR LISTENING
+# [THANKS FOR LISTENING]{style="color:#ff3030"}
