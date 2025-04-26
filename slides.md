@@ -59,7 +59,7 @@ transition: fade
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
   <img src="/2.webp" alt="2.webp" style="border-radius: 0px;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: #cb0000;">Black Panther Party Protesting</figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; color: #cb0000;">Police Arrest BPP Members</figcaption>
 </figure>
 
 By 1968, the BPP spread across the U.S. 
@@ -83,7 +83,7 @@ transition: fade
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
   <img src="/3.webp" alt="3.webp" style="border-radius: 0px;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: #cb0000;">Police Arrest BPP Members</figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; color: #cb0000;">Black Panther Party Protesting</figcaption>
 </figure>
 
 By the 1970s, the BPP weakened. 
