@@ -58,7 +58,7 @@ transition: fade
 # [Growth and Crackdown (1968-1971)]{style="color:#ff3030"}
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
-  <img src="/2.webp" alt="2.webp" style="border-radius: 0px;">
+  <img src="/1.webp" alt="2.webp" style="border-radius: 0px;">
   <figcaption style="text-align: center; font-size: 0.9em; color: gray;">Huey Newton and Bobby Seale in Oakland (1966)</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ transition: fade
 # [Decline and Lessons (1972-1982)]{style="color:#ff3030"}
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
-  <img src="/3.webp" alt="3.webp" style="border-radius: 0px;">
+  <img src="/1.webp" alt="3.webp" style="border-radius: 0px;">
   <figcaption style="text-align: center; font-size: 0.9em; color: gray;">Huey Newton and Bobby Seale in Oakland (1966)</figcaption>
 </figure>
 
@@ -104,7 +104,7 @@ transition: slide-down
 # [Why It Matters Today]{style="color:#ff3030"}
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
-  <img src="/4.webp" alt="4.webp" style="border-radius: 0px;">
+  <img src="/1.webp" alt="4.webp" style="border-radius: 0px;">
   <figcaption style="text-align: center; font-size: 0.9em; color: gray;">Huey Newton and Bobby Seale in Oakland (1966)</figcaption>
 </figure>
 
