@@ -24,7 +24,7 @@ background: /bpp.webp
 transition: fade
 ---
 
-# The Black Panther Party: 
+# Black Panther Party
 
 ## A Working-Class Fight for Justice
 
