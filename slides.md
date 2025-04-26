@@ -37,18 +37,18 @@ transition: fade
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
   <img src="/1.webp" alt="1.webp" style="border-radius: 0px;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: #cb0000;">Huey Newton and Bobby Seale in Oakland (1966)</figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; color: #740000;">Huey Newton and Bobby Seale in Oakland (1966)</figcaption>
 </figure>
 
 In 1966, Huey Newton and Bobby Seale started the BPP in Oakland, California. 
 
-Black communities there faced **POVERTY**{style="color:#ff3535"}, police **VIOLENCE**{style="color:#ff3535"}, and **RACISM**{style="color:#ff3535"}. 
+Black communities there faced **POVERTY**{style="color:#ff7e7e"}, police **VIOLENCE**{style="color:#ff7e7e"}, and **RACISM**{style="color:#ff7e7e"}. 
 
-The BPP’s **TEN-POINT PROGRAM**{style="color:#ff3535"} demanded basic rights: fair housing, jobs, education, and an end to police brutality. 
+The BPP’s **TEN-POINT PROGRAM**{style="color:#ff7e7e"} demanded basic rights: fair housing, jobs, education, and an end to police brutality. 
 
 They carried guns legally to patrol neighborhoods, protecting people from abusive cops. 
 
-This was a bold move by **POOR BLACK WORKERS**{style="color:#ff3535"} to defend themselves against a system that ignored their needs.
+This was a bold move by **POOR BLACK WORKERS**{style="color:#ff7e7e"} to defend themselves against a system that ignored their needs.
 
 ---
 layout: default
@@ -59,20 +59,20 @@ transition: fade
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
   <img src="/2.webp" alt="2.webp" style="border-radius: 0px;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: #cb0000;">Police Arrest BPP Members</figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; color: #740000;">Police Arrest BPP Members</figcaption>
 </figure>
 
 By 1968, the BPP spread across the U.S. 
 
-They mixed **SOCIALIST**{style="color:#ff3535"} ideas with Black pride, calling for revolution.
+They mixed **SOCIALIST**{style="color:#ff7e7e"} ideas with Black pride, calling for revolution.
 
-The FBI saw them as a threat and launched COINTELPRO—a secret program to **DESTORY**{style="color:#ff3535"} the group. 
+The FBI saw them as a threat and launched COINTELPRO—a secret program to **DESTORY**{style="color:#ff7e7e"} the group. 
 
 Police raids, fake news, and lies split the party. 
 
-In 1969, Chicago police **KILLED**{style="color:#ff3535"} Fred Hampton, a leader who united Black, white, and Latino poor communities. 
+In 1969, Chicago police **KILLED**{style="color:#ff7e7e"} Fred Hampton, a leader who united Black, white, and Latino poor communities. 
 
-Meanwhile, the BPP’s survival programs—like free breakfast for kids and health clinics—showed how **WORKING-CLASS**{style="color:#ff3535"} people could help each other when the government failed them.
+Meanwhile, the BPP’s survival programs—like free breakfast for kids and health clinics—showed how **WORKING-CLASS**{style="color:#ff7e7e"} people could help each other when the government failed them.
 
 ---
 layout: default
@@ -83,18 +83,18 @@ transition: fade
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
   <img src="/3.webp" alt="3.webp" style="border-radius: 0px;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: #cb0000;">Black Panther Party Protesting</figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; color: #740000;">Black Panther Party Protesting</figcaption>
 </figure>
 
 By the 1970s, the BPP weakened. 
 
-**GOVENRMENT ATTACKS**{style="color:#ff3535"}, fights among leaders, and Newton’s **MISTAKES**{style="color:#ff3535"} hurt the party. 
+**GOVENRMENT ATTACKS**{style="color:#ff7e7e"}, fights among leaders, and Newton’s **MISTAKES**{style="color:#ff7e7e"} hurt the party. 
 
 But their legacy lives on. 
 
-The BPP proved that fighting racism and capitalism must go **HAND IN HAND**{style="color:#ff3535"}. 
+The BPP proved that fighting racism and capitalism must go **HAND IN HAND**{style="color:#ff7e7e"}. 
 
-Their downfall also teaches us: without **UNITY**{style="color:#ff3535"} among all working people—Black, white, and others—real change is hard to achieve.
+Their downfall also teaches us: without **UNITY**{style="color:#ff7e7e"} among all working people—Black, white, and others—real change is hard to achieve.
 
 ---
 layout: default
@@ -105,16 +105,16 @@ transition: slide-down
 
 <figure style="float: right; width: 30%; margin-left: 5%; margin-bottom: 5%;">
   <img src="/4.webp" alt="4.webp" style="border-radius: 0px;">
-  <figcaption style="text-align: center; font-size: 0.9em; color: #cb0000;">The Communist Movement in America Today</figcaption>
+  <figcaption style="text-align: center; font-size: 0.9em; color: #740000;">The Communist Movement in America Today</figcaption>
 </figure>
 
 The BPP’s history teaches us two things:
 
-- **SYSTEMIC OPPRESSION**{style="color:#ff3535"}: Racism and poverty are tools capitalism uses to divide workers.
+- **SYSTEMIC OPPRESSION**{style="color:#ff7e7e"}: Racism and poverty are tools capitalism uses to divide workers.
 
-- **PEOPLE’S POWER**{style="color:#ff3535"}: When communities organize, they can challenge unfair systems—even if the state fights back.
+- **PEOPLE’S POWER**{style="color:#ff7e7e"}: When communities organize, they can challenge unfair systems—even if the state fights back.
 
-The Panthers’ fight reminds us that **JUSTICE**{style="color:#ff3535"} requires both **RESISTING**{style="color:#ff3535"} oppression and **BUILDING**{style="color:#ff3535"} world for all workers.
+The Panthers’ fight reminds us that **JUSTICE**{style="color:#ff7e7e"} requires both **RESISTING**{style="color:#ff7e7e"} oppression and **BUILDING**{style="color:#ff7e7e"} world for all workers.
 
 ---
 layout: end
